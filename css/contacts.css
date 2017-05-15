@@ -71,3 +71,8 @@ blockquote {
     padding: none;
 
 }
+
+.style {
+    color: pink;
+    padding: 20px;
+}
