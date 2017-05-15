@@ -75,4 +75,19 @@ blockquote {
 .style {
     color: pink;
     padding: 20px;
+   
+}
+
+.kylie stack {
+    align-content: center;
+    vertical-align: baseline;
+    padding: 10px;
+    margin: auto;
+
+}
+
+.modeling {
+    color: pink;
+    padding: 20px;
+   
 }
