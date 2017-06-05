@@ -1,0 +1,95 @@
+commit a515773fc3b2048f16bfb6b75a2e91c32753ad26
+Author: kamcdono <kellanmcd@yahoo.com>
+Date:   Mon Jun 5 11:44:18 2017 -0700
+
+    Added additional comments to CSS
+
+commit b6795dfd6cf3c1c8f4766e708da3597457f6eafa
+Author: kamcdono <kellanmcd@yahoo.com>
+Date:   Mon Jun 5 11:43:37 2017 -0700
+
+    Added a box shadow to my google map on the location page
+
+commit b25cd43c04387cba9b81fc36ff69a600d896322a
+Author: kamcdono <kellanmcd@yahoo.com>
+Date:   Mon Jun 5 11:13:18 2017 -0700
+
+    Wrote comments on CSS to improve clarity
+
+commit 77b2b10f98569b60988ca1e87880879a483039d0
+Author: kamcdono <kellanmcd@yahoo.com>
+Date:   Mon Jun 5 11:06:02 2017 -0700
+
+    Improved content to page description on index.html
+
+commit f8d4de2df1016fec1756ab87bc3580b7ca88990d
+Author: kamcdono <kellanmcd@yahoo.com>
+Date:   Mon Jun 5 11:03:49 2017 -0700
+
+    Add comments
+
+commit d95c904f47aebb0fecf4a6c94bf3961638a2185e
+Author: kamcdono <kellanmcd@yahoo.com>
+Date:   Mon Jun 5 09:38:33 2017 -0700
+
+    New files
+
+commit 0bc8863619f608cf2a6e537debb4616bd1fa33c4
+Author: kamcdono <kellanmcd@yahoo.com>
+Date:   Mon May 15 12:07:35 2017 -0700
+
+    Rename progress_report_date_name.txt to progress_report_05_15_17_kamcdono.txt
+
+commit b453bdfe4eaefdaa48ebcb7d23869cc46d7ce38b
+Author: kamcdono <kellanmcd@yahoo.com>
+Date:   Mon May 15 12:06:10 2017 -0700
+
+    Add files via upload
+
+commit 5b7d3c11731dce09f60589f06b664990aba31612
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 11:47:46 2017 -0700
+
+    Start Kendall page
+
+commit 46da6fec284905d8bd152875ead3fe4c7dceaa3f
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 11:33:56 2017 -0700
+
+    Comment sources
+
+commit b79e06a0bfa2fab4a538d4662ebbc644d36cec2c
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 11:17:23 2017 -0700
+
+    Add Kylie pictures
+
+commit ef2d7f38742212b6c8c9db123742719e6a277e7b
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 11:10:15 2017 -0700
+
+    Add quotes to home page
+
+commit efea1aee80294d560891c1bb2d18571775722367
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 10:23:53 2017 -0700
+
+    Add all files
+
+commit 6678b0d0bbfe3f092491a54b24b39efd7e6f4dfb
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 10:18:48 2017 -0700
+
+    Added page files
+
+commit c5790393e9592655f1f903cb651b7df9194ee8b2
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 09:59:49 2017 -0700
+
+    Add content to html
+
+commit 0f28e526952e8992811d1828c41de45aeb61d808
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 09:48:55 2017 -0700
+
+    Initialize repository
