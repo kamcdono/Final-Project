@@ -3,6 +3,9 @@
 
 }
 
+
+ /* Navigation Bar */
+
 nav {color: black;
     margin: 20px;
     padding: 20px;
@@ -11,7 +14,6 @@ nav {color: black;
     display: inline-block;
     width: 100%;
     align-content: center;
-       background-color: #A5DBE3;
     padding-left: clear;
     
 
@@ -25,6 +27,7 @@ a:link {
     margin: 10px;
     text-align: center;
     align-content: center;
+    background-color: #A5DBE3;
 
 }
 
@@ -47,17 +50,16 @@ a:active {
 
 
 
-body {
-    
-
-}
-
+/* Centering text content on About, Contact, Location, Treatment, and Financials pages. */
 
 div {
     align-content: center;
     text-align: center;
  
 }
+
+
+/* Title */
 
 h1 {
     position: absolute;
@@ -67,8 +69,10 @@ h1 {
     font-size: 55px;
     font-style: 500;
     color: black;
-
 }
+
+
+/* Scroll Arrow on index.html */
 
 .arrow { 
     position: absolute;
@@ -80,6 +84,9 @@ h1 {
     color: black;
 }
 
+
+/* Main title waterfall image on index.html */
+
 .one {
     padding: 0px;
    clear: left;
@@ -88,33 +95,19 @@ h1 {
     opacity: .50;
 }
 
-blockquote {
-    font-size: 40px;
-    font-style: 300;
-    width: 600px; margin: 0px auto 0px auto;
-    padding: 35px;
-    
-}
 
-.profile {
-    padding: 20px;
 
-}
-
-figcaption {
-    color: black;
-    font-style: italic;
-    font-size: 20px;
-    padding: 15px;
-}
-
+/* Header text */
 
 h2 {
     font-size: 55px;
     font-style: 500;
     color: black;
+    align-content: center;
 }
 
+
+/* Text  */
 
 h3 {
     font-size: 30px;
@@ -125,17 +118,7 @@ h3 {
 }
 
 
-.description {
-    font-size: 23px;
-    font-style: 300;
-    color: pink;
-    align-content: center;
-    vertical-align: baseline;
-    padding: 10px;
-    margin: auto;
-    align-content: bottom;
-}
-
+/* About page text */
 
 .about {
     width: 100%;
@@ -145,15 +128,18 @@ h3 {
       
 }
 
+/* Listed items */
+
 li {
     font-size: 25px;
     list-style-type: none;    
 }
 
+/* Search bar */
 
 form {
     float: right;
-    padding-right: 60px;
+    padding-right: 150px;
     
 }
 
