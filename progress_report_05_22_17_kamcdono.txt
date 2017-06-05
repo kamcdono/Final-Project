@@ -1,0 +1,77 @@
+commit d211d85a8e45a3ae83a053ee0768e841caab95d0
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 22 11:51:12 2017 -0700
+
+    Started Kim page
+
+commit c488164b3ec4bb724584a41b75c0bdb58708d097
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 22 11:45:49 2017 -0700
+
+    Finished Kendall Page
+
+commit 14f60719630de3b06a6a07b571f7fa15315258ce
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 22 11:37:59 2017 -0700
+
+    Citing Kendall images
+
+commit 7c90519ef63fdc8c8e8b530aacaf0394fd19949c
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 22 11:08:07 2017 -0700
+
+    Start Kendall page
+
+commit de4952be8777954a4b9b0ec7b1dfc62a1c75dd57
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 22 10:53:32 2017 -0700
+
+    Finished Kylie page
+
+commit 5b7d3c11731dce09f60589f06b664990aba31612
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 11:47:46 2017 -0700
+
+    Start Kendall page
+
+commit 46da6fec284905d8bd152875ead3fe4c7dceaa3f
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 11:33:56 2017 -0700
+
+    Comment sources
+
+commit b79e06a0bfa2fab4a538d4662ebbc644d36cec2c
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 11:17:23 2017 -0700
+
+    Add Kylie pictures
+
+commit ef2d7f38742212b6c8c9db123742719e6a277e7b
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 11:10:15 2017 -0700
+
+    Add quotes to home page
+
+commit efea1aee80294d560891c1bb2d18571775722367
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 10:23:53 2017 -0700
+
+    Add all files
+
+commit 6678b0d0bbfe3f092491a54b24b39efd7e6f4dfb
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 10:18:48 2017 -0700
+
+    Added page files
+
+commit c5790393e9592655f1f903cb651b7df9194ee8b2
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 09:59:49 2017 -0700
+
+    Add content to html
+
+commit 0f28e526952e8992811d1828c41de45aeb61d808
+Author: Kellan McDonough <kellanmcd@yahoo.com>
+Date:   Mon May 15 09:48:55 2017 -0700
+
+    Initialize repository
